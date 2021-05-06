@@ -1,0 +1,403 @@
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Web Server has been started"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: bassboost"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: clear"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: config"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: help"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: invite"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: leave"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: loop"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: lyrics"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: nowplaying"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: pause"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: play"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: queue"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: remove"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: resume"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: search"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: seek"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: shuffle"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: skip"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: skipto"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: volume"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Event Loaded: message"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Event Loaded: raw"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Event Loaded: ready"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Successfully Logged in as hm#9860"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Lavalink: Node Main connected"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Web Server has been started"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: bassboost"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: clear"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: config"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: help"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: invite"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: leave"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: loop"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: lyrics"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: nowplaying"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: pause"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: play"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: queue"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: remove"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: resume"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: search"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: skip"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: skipto"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: volume"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Event Loaded: message"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Event Loaded: raw"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Event Loaded: ready"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Successfully Logged in as hm#9860"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Lavalink: Node Main connected"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Web Server has been started"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Unable to load Command: ban, Reason: File doesn't had run/name/desciption"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: bassboost"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: clear"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: config"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: help"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: invite"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: leave"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: loop"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: lyrics"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: nowplaying"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: pause"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: play"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: queue"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: remove"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: resume"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: search"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: skip"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: skipto"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: volume"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Event Loaded: message"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Event Loaded: raw"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Event Loaded: ready"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Successfully Logged in as hm#9860"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Lavalink: Node Main connected"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Web Server has been started"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Unable to load Command: ban, Reason: File doesn't had run/name/desciption"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: bassboost"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: clear"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: config"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: help"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: invite"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: leave"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: loop"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: lyrics"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: nowplaying"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: pause"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: play"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: queue"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: remove"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: resume"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: search"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: skip"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: skipto"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Command Loaded: volume"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Event Loaded: message"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Event Loaded: raw"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Event Loaded: ready"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Successfully Logged in as hm#9860"}
+{"level":"info","message":"18:function getMinutes() { [native code] } - 2:4:2021 | Info: Lavalink: Node Main connected"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Web Server has been started"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Event Loaded: message"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Event Loaded: raw"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Event Loaded: ready"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Unable to load Command: ban, Reason: File doesn't had run/name/desciption"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: bassboost"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: clear"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: config"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: help"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: invite"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: leave"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: loop"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: lyrics"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: nowplaying"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: pause"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: play"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: queue"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: remove"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: resume"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: search"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: skip"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: skipto"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: volume"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Successfully Logged in as hm#9860"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Lavalink: Node Main connected"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Web Server has been started"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Unable to load Command: ban, Reason: File doesn't had run/name/desciption"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: bassboost"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: clear"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: config"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: help"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: invite"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: leave"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: loop"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: lyrics"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: nowplaying"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: pause"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: play"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: queue"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: remove"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: resume"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: search"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: skip"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: skipto"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: volume"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Event Loaded: message"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Event Loaded: raw"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Event Loaded: ready"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Successfully Logged in as hm#9860"}
+{"level":"info","message":"20:function getMinutes() { [native code] } - 3:4:2021 | Info: Lavalink: Node Main connected"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Web Server has been started"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Unable to load Command: ban, Reason: File doesn't had run/name/desciption"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: bassboost"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: clear"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: config"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: help"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: invite"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: leave"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: loop"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: lyrics"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: nowplaying"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: pause"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: play"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: queue"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: remove"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: resume"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: search"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: skip"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: skipto"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: volume"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Event Loaded: message"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Event Loaded: raw"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Event Loaded: ready"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Successfully Logged in as hm#9860"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Lavalink: Node Main connected"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Web Server has been started"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Unable to load Command: ban, Reason: File doesn't had run/name/desciption"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: bassboost"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: clear"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: config"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: help"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: invite"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: leave"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: loop"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: lyrics"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: nowplaying"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: pause"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: play"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: queue"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: remove"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: resume"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: search"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: skip"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: skipto"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: volume"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Event Loaded: message"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Event Loaded: raw"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Event Loaded: ready"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Successfully Logged in as hm#9860"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Lavalink: Node Main connected"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Web Server has been started"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Unable to load Command: ban, Reason: File doesn't had run/name/desciption"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: bassboost"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: clear"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: config"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: help"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: invite"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: leave"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: loop"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: lyrics"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: nowplaying"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: pause"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: play"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: queue"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: remove"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: resume"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: search"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: skip"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: skipto"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: volume"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Event Loaded: message"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Event Loaded: raw"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Event Loaded: ready"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Successfully Logged in as hm#9860"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Lavalink: Node Main had an error: connect ETIMEDOUT 20.198.123.93:1234"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Web Server has been started"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Unable to load Command: ban, Reason: File doesn't had run/name/desciption"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: bassboost"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: clear"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: config"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: help"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: invite"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: leave"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: loop"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: lyrics"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: nowplaying"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: pause"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: play"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: queue"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: remove"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: resume"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: search"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: skip"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: skipto"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Command Loaded: volume"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Event Loaded: message"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Event Loaded: raw"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Event Loaded: ready"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Successfully Logged in as hm#9860"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 3:4:2021 | Info: Lavalink: Node Main connected"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 4:4:2021 | Info: Web Server has been started"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 4:4:2021 | Info: Unable to load Command: ban, Reason: File doesn't had run/name/desciption"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: bassboost"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: clear"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: config"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: help"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: invite"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: leave"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: loop"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: lyrics"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: nowplaying"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: pause"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: play"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: queue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: remove"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: resume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: search"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: skip"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: skipto"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: volume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 4:4:2021 | Info: Event Loaded: message"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 4:4:2021 | Info: Event Loaded: raw"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 4:4:2021 | Info: Event Loaded: ready"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 4:4:2021 | Info: Successfully Logged in as hm#9860"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 4:4:2021 | Info: Lavalink: Node Main connected"}
+{"level":"info","message":"14:function getMinutes() { [native code] } - 4:4:2021 | Info: Web Server has been started"}
+{"level":"info","message":"14:function getMinutes() { [native code] } - 4:4:2021 | Info: Unable to load Command: ban, Reason: File doesn't had run/name/desciption"}
+{"level":"info","message":"14:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: bassboost"}
+{"level":"info","message":"14:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: clear"}
+{"level":"info","message":"14:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: config"}
+{"level":"info","message":"14:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: help"}
+{"level":"info","message":"14:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: invite"}
+{"level":"info","message":"14:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: leave"}
+{"level":"info","message":"14:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: loop"}
+{"level":"info","message":"14:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: lyrics"}
+{"level":"info","message":"14:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: nowplaying"}
+{"level":"info","message":"14:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: pause"}
+{"level":"info","message":"14:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: play"}
+{"level":"info","message":"14:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: queue"}
+{"level":"info","message":"14:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: remove"}
+{"level":"info","message":"14:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: resume"}
+{"level":"info","message":"14:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: search"}
+{"level":"info","message":"14:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: skip"}
+{"level":"info","message":"14:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: skipto"}
+{"level":"info","message":"14:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: volume"}
+{"level":"info","message":"14:function getMinutes() { [native code] } - 4:4:2021 | Info: Event Loaded: message"}
+{"level":"info","message":"14:function getMinutes() { [native code] } - 4:4:2021 | Info: Event Loaded: raw"}
+{"level":"info","message":"14:function getMinutes() { [native code] } - 4:4:2021 | Info: Event Loaded: ready"}
+{"level":"info","message":"14:function getMinutes() { [native code] } - 4:4:2021 | Info: Successfully Logged in as hm#9860"}
+{"level":"info","message":"14:function getMinutes() { [native code] } - 4:4:2021 | Info: Lavalink: Node Main connected"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Web Server has been started"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Unable to load Command: ban, Reason: File doesn't had run/name/desciption"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: bassboost"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: clear"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: config"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: help"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: invite"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: leave"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: loop"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: lyrics"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: nowplaying"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: pause"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: play"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: queue"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: remove"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: resume"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: search"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: skip"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: skipto"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: volume"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Event Loaded: message"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Event Loaded: raw"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Event Loaded: ready"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Successfully Logged in as hm#9860"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Lavalink: Node Main had an error: connect ETIMEDOUT 20.193.240.27:1234"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Lavalink: Node Main connected"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Web Server has been started"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Unable to load Command: ban, Reason: File doesn't had run/name/desciption"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: bassboost"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: clear"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: config"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: help"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: invite"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: leave"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: loop"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: lyrics"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: nowplaying"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: pause"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: play"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: queue"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: remove"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: resume"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: search"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: skip"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: skipto"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: volume"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Event Loaded: message"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Event Loaded: raw"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Event Loaded: ready"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Successfully Logged in as hm#9860"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Lavalink: Node Main connected"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Lavalink: Node Main had an error: connect ECONNREFUSED 20.193.225.13:1234"}
+{"level":"info","message":"17:function getMinutes() { [native code] } - 4:4:2021 | Info: Lavalink: Node Main had an error: connect ECONNREFUSED 20.193.225.13:1234"}
+{"level":"info","message":"22:function getMinutes() { [native code] } - 4:4:2021 | Info: Web Server has been started"}
+{"level":"info","message":"22:function getMinutes() { [native code] } - 4:4:2021 | Info: Unable to load Command: ban, Reason: File doesn't had run/name/desciption"}
+{"level":"info","message":"22:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: bassboost"}
+{"level":"info","message":"22:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: clear"}
+{"level":"info","message":"22:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: config"}
+{"level":"info","message":"22:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: help"}
+{"level":"info","message":"22:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: invite"}
+{"level":"info","message":"22:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: leave"}
+{"level":"info","message":"22:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: loop"}
+{"level":"info","message":"22:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: lyrics"}
+{"level":"info","message":"22:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: nowplaying"}
+{"level":"info","message":"22:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: pause"}
+{"level":"info","message":"22:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: play"}
+{"level":"info","message":"22:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: queue"}
+{"level":"info","message":"22:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: remove"}
+{"level":"info","message":"22:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: resume"}
+{"level":"info","message":"22:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: search"}
+{"level":"info","message":"22:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: skip"}
+{"level":"info","message":"22:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: skipto"}
+{"level":"info","message":"22:function getMinutes() { [native code] } - 4:4:2021 | Info: Command Loaded: volume"}
+{"level":"info","message":"22:function getMinutes() { [native code] } - 4:4:2021 | Info: Event Loaded: message"}
+{"level":"info","message":"22:function getMinutes() { [native code] } - 4:4:2021 | Info: Event Loaded: raw"}
+{"level":"info","message":"22:function getMinutes() { [native code] } - 4:4:2021 | Info: Event Loaded: ready"}
+{"level":"info","message":"22:function getMinutes() { [native code] } - 4:4:2021 | Info: Successfully Logged in as hm#9860"}
+{"level":"info","message":"22:function getMinutes() { [native code] } - 4:4:2021 | Info: Lavalink: Node Main connected"}
+{"level":"info","message":"19:function getMinutes() { [native code] } - 6:4:2021 | Info: Web Server has been started"}
+{"level":"info","message":"19:function getMinutes() { [native code] } - 6:4:2021 | Info: Event Loaded: message"}
+{"level":"info","message":"19:function getMinutes() { [native code] } - 6:4:2021 | Info: Event Loaded: raw"}
+{"level":"info","message":"19:function getMinutes() { [native code] } - 6:4:2021 | Info: Event Loaded: ready"}
+{"level":"info","message":"19:function getMinutes() { [native code] } - 6:4:2021 | Info: Unable to load Command: ban, Reason: File doesn't had run/name/desciption"}
+{"level":"info","message":"19:function getMinutes() { [native code] } - 6:4:2021 | Info: Command Loaded: bassboost"}
+{"level":"info","message":"19:function getMinutes() { [native code] } - 6:4:2021 | Info: Command Loaded: clear"}
+{"level":"info","message":"19:function getMinutes() { [native code] } - 6:4:2021 | Info: Command Loaded: config"}
+{"level":"info","message":"19:function getMinutes() { [native code] } - 6:4:2021 | Info: Command Loaded: help"}
+{"level":"info","message":"19:function getMinutes() { [native code] } - 6:4:2021 | Info: Command Loaded: invite"}
+{"level":"info","message":"19:function getMinutes() { [native code] } - 6:4:2021 | Info: Command Loaded: leave"}
+{"level":"info","message":"19:function getMinutes() { [native code] } - 6:4:2021 | Info: Command Loaded: loop"}
+{"level":"info","message":"19:function getMinutes() { [native code] } - 6:4:2021 | Info: Command Loaded: lyrics"}
+{"level":"info","message":"19:function getMinutes() { [native code] } - 6:4:2021 | Info: Command Loaded: nowplaying"}
+{"level":"info","message":"19:function getMinutes() { [native code] } - 6:4:2021 | Info: Command Loaded: pause"}
+{"level":"info","message":"19:function getMinutes() { [native code] } - 6:4:2021 | Info: Command Loaded: play"}
+{"level":"info","message":"19:function getMinutes() { [native code] } - 6:4:2021 | Info: Command Loaded: queue"}
+{"level":"info","message":"19:function getMinutes() { [native code] } - 6:4:2021 | Info: Command Loaded: remove"}
+{"level":"info","message":"19:function getMinutes() { [native code] } - 6:4:2021 | Info: Command Loaded: resume"}
+{"level":"info","message":"19:function getMinutes() { [native code] } - 6:4:2021 | Info: Command Loaded: search"}
+{"level":"info","message":"19:function getMinutes() { [native code] } - 6:4:2021 | Info: Command Loaded: skip"}
+{"level":"info","message":"19:function getMinutes() { [native code] } - 6:4:2021 | Info: Command Loaded: skipto"}
+{"level":"info","message":"19:function getMinutes() { [native code] } - 6:4:2021 | Info: Command Loaded: volume"}
+{"level":"info","message":"19:function getMinutes() { [native code] } - 6:4:2021 | Info: Successfully Logged in as hm#9860"}
+{"level":"info","message":"19:function getMinutes() { [native code] } - 6:4:2021 | Info: Lavalink: Node Main connected"}
